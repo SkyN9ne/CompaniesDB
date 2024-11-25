@@ -17,6 +17,6 @@
     },
     "dependencies": {
         "consola": "^2.15.3",
-        "sqlite3": "^5.0.2"
+        "sqlite3": "^5.1.5"
     }
 }
